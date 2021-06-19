@@ -1,0 +1,16 @@
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\bin\Debug\net5.0\CalcAgeInSeconds.exe
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\bin\Debug\net5.0\CalcAgeInSeconds.deps.json
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\bin\Debug\net5.0\CalcAgeInSeconds.runtimeconfig.json
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\bin\Debug\net5.0\CalcAgeInSeconds.runtimeconfig.dev.json
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\bin\Debug\net5.0\CalcAgeInSeconds.dll
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\bin\Debug\net5.0\ref\CalcAgeInSeconds.dll
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\bin\Debug\net5.0\CalcAgeInSeconds.pdb
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.csproj.AssemblyReference.cache
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.AssemblyInfoInputs.cache
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.AssemblyInfo.cs
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.csproj.CoreCompileInputs.cache
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.dll
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\ref\CalcAgeInSeconds.dll
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.pdb
+C:\Users\sjk27\Projects\csharp\CalcAgeInSeconds\obj\Debug\net5.0\CalcAgeInSeconds.genruntimeconfig.cache
