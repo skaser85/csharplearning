@@ -1,0 +1,111 @@
+{
+    "sqlServer": "DEVSQL1",
+    "baseDir": "\\\\deviis1\\c$\\Users\\adminsw\\Desktop\\objects",
+    "emailAddrs": ["steve.kaser@nkparts.com"],
+    "databases": [
+        {
+            "name": "ATA",
+            "version": 2018,
+            "scanning": [],
+            "printing": []
+        },
+        {
+            "name": "AEP",
+            "version": 2018,
+            "scanning": [],
+            "printing": [
+                "\\\\DEVIIS1\\c$\\LabelPrintingService OSCC"
+            ]
+        },
+        {
+            "name": "HTMV9",
+            "version": 2016,
+            "scanning": [
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\HPD_Scanning"
+            ],
+            "printing": [
+                "\\\\DEVIIS1\\c$\\LabelPrintingService HTMBR"
+            ]
+        },
+        {
+            "name": "ATR",
+            "version": 2018,
+            "scanning": [
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\ATRCheckin"
+            ],
+            "printing": [
+                "\\\\DEVIIS1\\c$\\LabelPrintingService ATR",
+                "\\\\DEVIIS1\\c$\\LabelPrintingService ATRBIN"
+            ]
+        },
+        {
+            "name": "QA",
+            "version": 2018,
+            "scanning": [
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\BoseWH",
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\CAPTWH",
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\HanonWH",
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\RikenEWH",
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\RikenVWH",
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\QA"
+            ],
+            "printing": [
+                "\\\\DEVIIS1\\c$\\LabelPrintingService Bose",
+                "\\\\DEVIIS1\\c$\\LabelPrintingService CAPT",
+                "\\\\DEVIIS1\\c$\\LabelPrintingService RikenE"
+            ]
+        },
+        {
+            "name": "ELBHABV9",
+            "version": 2016,
+            "scanning": [],
+            "printing": []
+        },
+        {
+            "name": "QA",
+            "version": 2018,
+            "scanning": [],
+            "printing": []
+        },
+        {
+            "name": "AHSC",
+            "version": 2018,
+            "scanning": [],
+            "printing": []
+        },
+        {
+            "name": "ISS",
+            "version": 2018,
+            "scanning": [
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\ServiceBuildScanning"
+            ],
+            "printing": [
+                "\\\\DEVIIS1\\c$\\LabelPrintingService Service Build"
+            ]
+        },
+        {
+            "name": "FINANCE",
+            "version": 2018,
+            "scanning": [],
+            "printing": []
+        },
+        {
+            "name": "NAIOO",
+            "version": 2018,
+            "scanning": [
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\NAIOOScanning - Pre-Publish"
+            ],
+            "printing": []
+        },
+        {
+            "name": "WH",
+            "version": 2018,
+            "scanning": [
+                "\\\\DEVIIS1\\c$\\Users\\Navsvcs\\Documents\\Visual Studio 2015\\Projects\\WarehouseScanning"
+            ],
+            "printing": [
+                "\\\\DEVIIS1\\c$\\LabelPrintingService WH"
+            ]
+        }
+    ]
+}
