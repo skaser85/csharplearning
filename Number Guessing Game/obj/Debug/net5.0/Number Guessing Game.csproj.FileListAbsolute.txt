@@ -1,0 +1,16 @@
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\bin\Debug\net5.0\Number Guessing Game.exe
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\bin\Debug\net5.0\Number Guessing Game.deps.json
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\bin\Debug\net5.0\Number Guessing Game.runtimeconfig.json
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\bin\Debug\net5.0\Number Guessing Game.runtimeconfig.dev.json
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\bin\Debug\net5.0\Number Guessing Game.dll
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\bin\Debug\net5.0\ref\Number Guessing Game.dll
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\bin\Debug\net5.0\Number Guessing Game.pdb
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.csproj.AssemblyReference.cache
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.AssemblyInfo.cs
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.dll
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\ref\Number Guessing Game.dll
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.pdb
+C:\Users\sjk27\Projects\csharp\Number Guessing Game\obj\Debug\net5.0\Number Guessing Game.genruntimeconfig.cache
