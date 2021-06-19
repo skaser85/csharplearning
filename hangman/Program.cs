@@ -68,7 +68,8 @@ namespace hangman
             }
             DrawHangman(head, leftArm, rightArm, torso, leftLeg, rightLeg, word, letters);
             Console.WriteLine("To save this poor soul's life, it's up to you to guess the mystery word one letter a time.");
-            Console.WriteLine("Capitalization does NOT matter.  You have 6 guesses left.\n");
+            Console.WriteLine("Capitalization does NOT matter.  You have 6 guesses left.");
+            Console.WriteLine("Good luck!\n");
         }
     }
 
